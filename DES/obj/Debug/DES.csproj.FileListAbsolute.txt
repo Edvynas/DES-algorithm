@@ -1,0 +1,29 @@
+c:\users\vaidotas\documents\visual studio 2017\Projects\DES\DES\bin\Debug\DES.exe.config
+c:\users\vaidotas\documents\visual studio 2017\Projects\DES\DES\bin\Debug\DES.exe
+c:\users\vaidotas\documents\visual studio 2017\Projects\DES\DES\bin\Debug\DES.pdb
+c:\users\vaidotas\documents\visual studio 2017\Projects\DES\DES\obj\Debug\DES.csprojResolveAssemblyReference.cache
+c:\users\vaidotas\documents\visual studio 2017\Projects\DES\DES\obj\Debug\DES.Form1.resources
+c:\users\vaidotas\documents\visual studio 2017\Projects\DES\DES\obj\Debug\DES.Properties.Resources.resources
+c:\users\vaidotas\documents\visual studio 2017\Projects\DES\DES\obj\Debug\DES.csproj.GenerateResource.Cache
+c:\users\vaidotas\documents\visual studio 2017\Projects\DES\DES\obj\Debug\DES.exe
+c:\users\vaidotas\documents\visual studio 2017\Projects\DES\DES\obj\Debug\DES.pdb
+C:\Users\Rugile\Desktop\Studijos\Info saugumas\DES\DES\bin\Debug\DES.exe.config
+C:\Users\Rugile\Desktop\Studijos\Info saugumas\DES\DES\bin\Debug\DES.exe
+C:\Users\Rugile\Desktop\Studijos\Info saugumas\DES\DES\bin\Debug\DES.pdb
+C:\Users\Rugile\Desktop\Studijos\Info saugumas\DES\DES\obj\Debug\DES.Form1.resources
+C:\Users\Rugile\Desktop\Studijos\Info saugumas\DES\DES\obj\Debug\DES.Properties.Resources.resources
+C:\Users\Rugile\Desktop\Studijos\Info saugumas\DES\DES\obj\Debug\DES.csproj.GenerateResource.cache
+C:\Users\Rugile\Desktop\Studijos\Info saugumas\DES\DES\obj\Debug\DES.csproj.CoreCompileInputs.cache
+C:\Users\Rugile\Desktop\Studijos\Info saugumas\DES\DES\obj\Debug\DES.exe
+C:\Users\Rugile\Desktop\Studijos\Info saugumas\DES\DES\obj\Debug\DES.pdb
+C:\Users\Rugile\Desktop\Studijos\Info saugumas\DES\DES\obj\Debug\DES.csproj.AssemblyReference.cache
+C:\Users\Rugile\Desktop\Studijos\Infosaugumas\DES\DES\bin\Debug\DES.exe.config
+C:\Users\Rugile\Desktop\Studijos\Infosaugumas\DES\DES\bin\Debug\DES.exe
+C:\Users\Rugile\Desktop\Studijos\Infosaugumas\DES\DES\bin\Debug\DES.pdb
+C:\Users\Rugile\Desktop\Studijos\Infosaugumas\DES\DES\obj\Debug\DES.csproj.AssemblyReference.cache
+C:\Users\Rugile\Desktop\Studijos\Infosaugumas\DES\DES\obj\Debug\DES.Form1.resources
+C:\Users\Rugile\Desktop\Studijos\Infosaugumas\DES\DES\obj\Debug\DES.Properties.Resources.resources
+C:\Users\Rugile\Desktop\Studijos\Infosaugumas\DES\DES\obj\Debug\DES.csproj.GenerateResource.cache
+C:\Users\Rugile\Desktop\Studijos\Infosaugumas\DES\DES\obj\Debug\DES.csproj.CoreCompileInputs.cache
+C:\Users\Rugile\Desktop\Studijos\Infosaugumas\DES\DES\obj\Debug\DES.exe
+C:\Users\Rugile\Desktop\Studijos\Infosaugumas\DES\DES\obj\Debug\DES.pdb
